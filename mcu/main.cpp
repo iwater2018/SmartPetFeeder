@@ -3,7 +3,7 @@
 #include "protocol.h"
 #include "wifi.h"
 #include "Servo.h"
-
+#include <inttypes.h>
 
 #define led_pin1 PB14
 #define led_pin2 PB15
